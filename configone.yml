@@ -2,6 +2,6 @@
 configuration:  
   projectName: configclient Changed
 server:
-  port: 8181
+  port: 8888
 message:
   greeting: Hello from the configuration!
