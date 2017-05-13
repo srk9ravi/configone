@@ -1,6 +1,6 @@
 # configone
 configuration:  
-  projectName: configclient
+  projectName: configclient Changed
 server:
   port: 8888
 message:
